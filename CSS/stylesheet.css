@@ -25,3 +25,10 @@
   margin-right: 15px;
   margin-left: 15px;
 }
+.h1{
+  font-size:25px;
+  font-family:cursive;
+  font-style: italic;
+  color: blue;
+  text-align: center;
+}
