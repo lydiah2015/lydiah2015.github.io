@@ -4,7 +4,7 @@ This is my personal portfolio.
 ## Author
 Lydia Makini
 
-##Description
+## Description
 This is a page about me as a web developer.It contains my name,my image,projects i have created with active links.
 
 ## Link to deployed site
