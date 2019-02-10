@@ -1,6 +1,6 @@
 .intro{
-  font-size: 25px;
-  padding: 10px;
+  font-size: 15px;
+  padding: 7px;
   color: black;
   background-color: rgb(155,155,155);
 }
@@ -31,4 +31,23 @@
   font-style: italic;
   color: blue;
   text-align: center;
+}
+.h2{
+  font-size:25px;
+  font-family:cursive;
+  font-style: italic;
+  color: gray;
+  text-align:left;
+}
+.h3{
+  font-size:25px;
+  font-family:cursive;
+  font-style: italic;
+  color: gray;
+  text-align:left;
+}
+.img{
+  float: right;
+  height: 450px;
+  width:60%
 }
