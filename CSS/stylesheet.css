@@ -1,0 +1,13 @@
+.intro{
+  font-size: 25px;
+  padding: 10px;
+  color: black;
+  background-color: rgb(155,155,155);
+}
+.heading{
+  font-size: 40px;
+  text-align: center;
+  color: black;
+  font-family: monospace;
+  font-style: italic;
+}
